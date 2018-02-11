@@ -1,0 +1,15 @@
+.trendalignleft{
+   float: left;
+   
+}
+.trendalignright{
+    margin-top: -30px;
+    float:right;
+   
+  
+}
+.backvalue{
+    padding: 10%;
+   
+    height:12em;
+}
